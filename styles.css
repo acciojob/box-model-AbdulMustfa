@@ -10,21 +10,21 @@
 	flex-direction:row;
 }
 .red{
-	background-color:#ff0000;
+	background-color:rgb(255, 0, 0);
 	height:4.0rem;
 	width:16%;
 	margin:5px;
 	border-radius:500rem;
 }
 .green{
-	background-color: #009933;
+	background-color:rgb(0, 128, 0);
 	height:4.0rem;
 	width:16%;
 	margin:5px;
 	border-radius:500rem;
 }
 .yellow{
-	background-color: #ffff00;
+	background-color:rgb(255, 255, 0);
 	height:4.0rem;
 	width:16%;
 	margin:5px;
